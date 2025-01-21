@@ -5,3 +5,6 @@ scikit-learn
 dvc
 transformers
 datasets
+telethon
+python-dotenv
+nltk
