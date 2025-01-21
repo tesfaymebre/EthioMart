@@ -13,3 +13,4 @@ sentencepiece
 amseg
 pdf2image
 pytesseract
+accelerate
