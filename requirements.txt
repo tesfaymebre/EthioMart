@@ -8,3 +8,8 @@ datasets
 telethon
 python-dotenv
 nltk
+langdetect
+sentencepiece
+amseg
+pdf2image
+pytesseract
